@@ -1,0 +1,3 @@
+model=taubin1991
+dataset=dataset/shape1
+degree=4
